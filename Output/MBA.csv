@@ -1,0 +1,216 @@
+,Student ID,Gender,HS Speciality,HS avg,Degree,Degree avg,MBA,MBA avg,Work Experience,Status,Salary
+0,1,M,Commerce,91.0,Sci&Tech,58.0,Mkt&HR,58.8,No,Placed,"$270,000.00"
+1,2,M,Science,78.33,Sci&Tech,77.48,Mkt&Fin,66.28,Yes,Placed,"$200,000.00"
+2,3,M,Arts,68.0,Comm&Mgmt,64.0,Mkt&Fin,57.8,No,Placed,"$250,000.00"
+3,4,M,Science,52.0,Sci&Tech,52.0,Mkt&HR,59.43,No,Not Placed,$nan
+4,5,M,Commerce,73.6,Comm&Mgmt,73.3,Mkt&Fin,55.5,No,Placed,"$425,000.00"
+5,6,M,Science,49.8,Sci&Tech,67.25,Mkt&Fin,51.58,Yes,Not Placed,$nan
+6,7,F,Commerce,49.2,Comm&Mgmt,79.0,Mkt&Fin,53.29,No,Not Placed,$nan
+7,8,M,Science,64.0,Sci&Tech,66.0,Mkt&Fin,62.14,Yes,Placed,"$252,000.00"
+8,9,M,Commerce,79.0,Comm&Mgmt,72.0,Mkt&Fin,61.29,No,Placed,"$231,000.00"
+9,10,M,Commerce,70.0,Comm&Mgmt,61.0,Mkt&Fin,52.21,No,Not Placed,$nan
+10,11,M,Commerce,61.0,Comm&Mgmt,60.0,Mkt&HR,60.85,Yes,Placed,"$260,000.00"
+11,12,M,Commerce,68.4,Comm&Mgmt,78.3,Mkt&Fin,63.7,Yes,Placed,"$250,000.00"
+12,13,F,Science,55.0,Comm&Mgmt,65.0,Mkt&HR,65.04,No,Not Placed,$nan
+13,14,F,Commerce,87.0,Comm&Mgmt,59.0,Mkt&Fin,68.63,No,Placed,"$218,000.00"
+14,15,M,Commerce,47.0,Comm&Mgmt,50.0,Mkt&HR,54.96,No,Not Placed,$nan
+15,16,F,Commerce,75.0,Comm&Mgmt,69.0,Mkt&Fin,64.66,Yes,Placed,"$200,000.00"
+16,17,M,Commerce,66.2,Comm&Mgmt,65.6,Mkt&Fin,62.54,Yes,Placed,"$300,000.00"
+17,18,F,Commerce,67.0,Comm&Mgmt,64.0,Mkt&Fin,67.28,No,Not Placed,$nan
+18,19,F,Commerce,66.0,Comm&Mgmt,64.0,Mkt&HR,64.08,No,Not Placed,$nan
+19,20,M,Arts,67.0,Comm&Mgmt,70.0,Mkt&Fin,77.89,Yes,Placed,"$236,000.00"
+20,21,M,Commerce,65.0,Comm&Mgmt,66.0,Mkt&HR,56.7,No,Placed,"$265,000.00"
+21,22,F,Commerce,76.0,Comm&Mgmt,85.0,Mkt&Fin,69.06,No,Placed,"$393,000.00"
+22,23,F,Science,60.8,Sci&Tech,72.23,Mkt&HR,68.81,No,Placed,"$360,000.00"
+23,24,F,Science,60.0,Sci&Tech,64.74,Mkt&Fin,63.62,Yes,Placed,"$300,000.00"
+24,25,M,Science,97.7,Sci&Tech,78.86,Mkt&Fin,74.01,No,Placed,"$360,000.00"
+25,26,F,Commerce,54.6,Comm&Mgmt,50.2,Mkt&Fin,65.33,Yes,Not Placed,$nan
+26,27,M,Commerce,79.0,Comm&Mgmt,66.0,Mkt&Fin,57.55,Yes,Placed,"$240,000.00"
+27,28,M,Commerce,67.0,Comm&Mgmt,66.0,Mkt&HR,57.69,No,Placed,"$265,000.00"
+28,29,M,Commerce,76.5,Comm&Mgmt,67.5,Mkt&Fin,64.15,Yes,Placed,"$350,000.00"
+29,30,M,Commerce,67.0,Comm&Mgmt,58.0,Mkt&Fin,51.29,No,Not Placed,$nan
+30,31,F,Commerce,73.5,Comm&Mgmt,73.0,Mkt&HR,56.7,No,Placed,"$250,000.00"
+31,32,F,Science,53.0,Sci&Tech,65.0,Mkt&HR,58.32,No,Not Placed,$nan
+32,33,F,Commerce,81.0,Comm&Mgmt,66.4,Mkt&HR,62.21,No,Placed,"$278,000.00"
+33,34,F,Science,65.0,Comm&Mgmt,81.0,Mkt&Fin,72.78,Yes,Placed,"$260,000.00"
+34,35,M,Science,51.0,Others,52.0,Mkt&HR,62.77,No,Not Placed,$nan
+35,36,F,Commerce,78.0,Comm&Mgmt,72.0,Mkt&HR,62.74,No,Placed,"$300,000.00"
+36,37,M,Commerce,44.0,Comm&Mgmt,57.0,Mkt&Fin,51.45,No,Not Placed,$nan
+37,38,F,Science,76.0,Sci&Tech,65.6,Mkt&HR,55.47,No,Placed,"$320,000.00"
+38,39,F,Science,58.0,Comm&Mgmt,66.0,Mkt&HR,56.86,No,Placed,"$240,000.00"
+39,40,M,Science,68.0,Sci&Tech,64.0,Mkt&Fin,62.56,No,Placed,"$411,000.00"
+40,41,F,Commerce,77.0,Comm&Mgmt,80.0,Mkt&Fin,66.72,No,Placed,"$287,000.00"
+41,42,F,Commerce,63.16,Comm&Mgmt,65.0,Mkt&HR,69.76,Yes,Not Placed,$nan
+42,43,M,Science,39.0,Others,65.0,Mkt&Fin,51.21,No,Not Placed,$nan
+43,44,M,Commerce,87.0,Comm&Mgmt,68.0,Mkt&HR,62.9,No,Placed,"$300,000.00"
+44,45,F,Commerce,73.0,Comm&Mgmt,81.0,Mkt&Fin,69.7,Yes,Placed,"$200,000.00"
+45,46,F,Science,64.0,Sci&Tech,72.0,Mkt&HR,66.53,No,Not Placed,$nan
+46,47,F,Science,71.98,Comm&Mgmt,65.6,Mkt&HR,71.63,No,Not Placed,$nan
+47,48,M,Commerce,60.0,Comm&Mgmt,57.0,Mkt&Fin,54.55,Yes,Placed,"$204,000.00"
+48,49,M,Commerce,62.0,Comm&Mgmt,68.0,Mkt&Fin,62.46,No,Placed,"$250,000.00"
+49,50,F,Arts,37.0,Others,52.0,Mkt&HR,56.11,No,Not Placed,$nan
+50,51,F,Science,73.2,Comm&Mgmt,68.4,Mkt&HR,62.98,No,Placed,"$200,000.00"
+51,52,M,Commerce,61.12,Comm&Mgmt,56.2,Mkt&HR,62.65,No,Not Placed,$nan
+52,53,F,Commerce,45.83,Comm&Mgmt,53.0,Mkt&HR,65.49,No,Not Placed,$nan
+53,54,M,Science,70.0,Sci&Tech,72.0,Mkt&HR,71.04,No,Placed,"$450,000.00"
+54,55,F,Science,60.0,Comm&Mgmt,69.0,Mkt&HR,65.56,No,Placed,"$216,000.00"
+55,56,M,Science,66.6,Comm&Mgmt,65.0,Mkt&HR,52.71,No,Placed,"$220,000.00"
+56,57,M,Commerce,71.4,Comm&Mgmt,61.4,Mkt&Fin,66.88,No,Placed,"$240,000.00"
+57,58,M,Commerce,76.0,Comm&Mgmt,74.0,Mkt&Fin,63.59,No,Placed,"$360,000.00"
+58,59,M,Science,62.0,Comm&Mgmt,68.0,Mkt&Fin,57.99,No,Placed,"$268,000.00"
+59,60,M,Science,65.58,Sci&Tech,72.11,Mkt&Fin,56.66,No,Placed,"$265,000.00"
+60,61,M,Science,70.0,Comm&Mgmt,72.0,Mkt&Fin,57.24,Yes,Placed,"$260,000.00"
+61,62,M,Commerce,73.4,Comm&Mgmt,66.89,Mkt&Fin,62.48,No,Placed,"$300,000.00"
+62,63,F,Science,64.2,Sci&Tech,67.4,Mkt&Fin,59.69,No,Placed,"$240,000.00"
+63,64,M,Commerce,70.0,Comm&Mgmt,64.0,Mkt&HR,59.5,No,Not Placed,$nan
+64,65,M,Commerce,73.0,Comm&Mgmt,75.0,Mkt&Fin,58.78,No,Placed,"$240,000.00"
+65,66,M,Science,47.0,Comm&Mgmt,57.0,Mkt&HR,57.1,No,Not Placed,$nan
+66,67,M,Science,74.0,Comm&Mgmt,66.0,Mkt&HR,58.46,No,Placed,"$275,000.00"
+67,68,M,Commerce,78.5,Comm&Mgmt,67.0,Mkt&Fin,60.99,No,Placed,"$275,000.00"
+68,69,F,Commerce,47.0,Sci&Tech,72.7,Mkt&HR,59.24,No,Not Placed,$nan
+69,70,M,Science,73.0,Sci&Tech,66.0,Mkt&Fin,68.07,Yes,Placed,"$275,000.00"
+70,71,M,Science,61.0,Sci&Tech,62.0,Mkt&Fin,65.45,No,Placed,"$360,000.00"
+71,72,M,Commerce,70.29,Comm&Mgmt,71.0,Mkt&Fin,66.94,No,Placed,"$240,000.00"
+72,73,M,Science,67.0,Comm&Mgmt,78.0,Mkt&Fin,68.53,No,Placed,"$240,000.00"
+73,74,M,Commerce,83.83,Comm&Mgmt,71.72,Mkt&Fin,59.75,No,Placed,"$218,000.00"
+74,75,M,Commerce,64.8,Comm&Mgmt,70.2,Mkt&Fin,67.2,No,Placed,"$336,000.00"
+75,76,F,Commerce,62.0,Comm&Mgmt,77.5,Mkt&HR,67.0,No,Not Placed,$nan
+76,77,F,Arts,70.4,Comm&Mgmt,71.93,Mkt&Fin,64.27,No,Placed,"$230,000.00"
+77,78,M,Science,80.0,Sci&Tech,65.0,Mkt&Fin,57.65,Yes,Placed,"$500,000.00"
+78,79,M,Science,90.9,Sci&Tech,64.5,Mkt&Fin,59.42,No,Placed,"$270,000.00"
+79,80,F,Science,62.0,Sci&Tech,66.0,Mkt&HR,67.99,No,Not Placed,$nan
+80,81,F,Commerce,62.0,Comm&Mgmt,69.0,Mkt&HR,62.35,Yes,Placed,"$240,000.00"
+81,82,M,Science,63.0,Comm&Mgmt,67.0,Mkt&Fin,70.2,Yes,Placed,"$300,000.00"
+82,83,M,Commerce,67.0,Comm&Mgmt,74.0,Mkt&Fin,60.44,No,Not Placed,$nan
+83,84,M,Science,79.0,Sci&Tech,68.0,Mkt&Fin,66.69,Yes,Placed,"$300,000.00"
+84,85,M,Science,63.0,Sci&Tech,70.0,Mkt&Fin,62.0,Yes,Placed,"$300,000.00"
+85,86,F,Commerce,89.83,Comm&Mgmt,77.2,Mkt&Fin,76.18,Yes,Placed,"$400,000.00"
+86,87,M,Commerce,63.0,Comm&Mgmt,64.0,Mkt&Fin,57.03,No,Placed,"$220,000.00"
+87,88,M,Science,51.0,Others,60.0,Mkt&HR,59.08,No,Not Placed,$nan
+88,89,F,Commerce,62.0,Comm&Mgmt,73.0,Mkt&HR,64.36,No,Placed,"$210,000.00"
+89,90,F,Science,75.0,Sci&Tech,69.0,Mkt&HR,62.36,Yes,Placed,"$210,000.00"
+90,91,F,Commerce,90.0,Comm&Mgmt,82.0,Mkt&Fin,68.03,No,Placed,"$300,000.00"
+91,92,M,Commerce,57.0,Comm&Mgmt,50.8,Mkt&HR,62.79,No,Not Placed,$nan
+92,93,F,Science,69.0,Comm&Mgmt,66.0,Mkt&Fin,59.47,No,Placed,"$230,000.00"
+93,94,M,Commerce,62.0,Comm&Mgmt,54.0,Mkt&HR,55.41,No,Not Placed,$nan
+94,95,M,Commerce,62.0,Comm&Mgmt,64.0,Mkt&Fin,54.97,No,Placed,"$260,000.00"
+95,96,M,Commerce,78.0,Comm&Mgmt,65.0,Mkt&Fin,62.16,Yes,Placed,"$420,000.00"
+96,97,F,Science,70.0,Comm&Mgmt,76.0,Mkt&Fin,64.44,Yes,Placed,"$300,000.00"
+97,98,F,Commerce,62.5,Comm&Mgmt,61.0,Mkt&Fin,69.03,No,Not Placed,$nan
+98,99,F,Commerce,73.0,Comm&Mgmt,65.0,Mkt&Fin,57.31,No,Placed,"$220,000.00"
+99,100,M,Commerce,82.0,Sci&Tech,63.0,Mkt&Fin,59.47,No,Not Placed,$nan
+100,101,F,Commerce,57.0,Comm&Mgmt,58.0,Mkt&HR,64.95,Yes,Not Placed,$nan
+101,102,M,Commerce,72.0,Comm&Mgmt,68.0,Mkt&HR,60.44,No,Placed,"$380,000.00"
+102,103,F,Commerce,61.0,Comm&Mgmt,68.0,Mkt&Fin,61.31,Yes,Placed,"$300,000.00"
+103,104,M,Science,78.0,Sci&Tech,73.0,Mkt&HR,65.83,Yes,Placed,"$240,000.00"
+104,105,M,Science,63.0,Comm&Mgmt,65.0,Mkt&HR,58.23,Yes,Placed,"$360,000.00"
+105,106,M,Science,64.0,Sci&Tech,58.0,Mkt&HR,55.3,No,Not Placed,$nan
+106,107,M,Science,50.0,Sci&Tech,54.0,Mkt&Fin,65.69,No,Not Placed,$nan
+107,108,M,Commerce,90.0,Comm&Mgmt,83.0,Mkt&HR,73.52,No,Placed,"$200,000.00"
+108,109,M,Commerce,82.0,Comm&Mgmt,69.0,Mkt&Fin,58.31,No,Placed,"$300,000.00"
+109,110,M,Science,63.0,Sci&Tech,65.0,Mkt&HR,56.09,Yes,Not Placed,$nan
+110,111,F,Science,70.0,Sci&Tech,72.0,Mkt&HR,54.8,No,Placed,"$250,000.00"
+111,112,M,Science,54.0,Sci&Tech,61.0,Mkt&HR,60.64,No,Not Placed,$nan
+112,113,M,Commerce,61.0,Comm&Mgmt,61.0,Mkt&HR,53.94,No,Placed,"$250,000.00"
+113,114,F,Commerce,79.0,Comm&Mgmt,67.0,Mkt&Fin,63.08,No,Placed,"$280,000.00"
+114,115,M,Science,68.0,Comm&Mgmt,69.0,Mkt&HR,55.01,No,Placed,"$250,000.00"
+115,116,F,Science,63.0,Comm&Mgmt,66.0,Mkt&Fin,60.5,No,Placed,"$216,000.00"
+116,117,M,Commerce,72.8,Comm&Mgmt,66.6,Mkt&Fin,70.85,Yes,Placed,"$300,000.00"
+117,118,M,Science,75.0,Sci&Tech,73.0,Mkt&Fin,67.05,No,Placed,"$240,000.00"
+118,119,M,Science,80.0,Sci&Tech,78.0,Mkt&HR,70.48,Yes,Placed,"$276,000.00"
+119,120,M,Commerce,68.4,Comm&Mgmt,64.6,Mkt&Fin,64.34,Yes,Placed,"$940,000.00"
+120,121,M,Science,40.0,Comm&Mgmt,59.0,Mkt&HR,58.81,No,Not Placed,$nan
+121,122,F,Science,67.0,Sci&Tech,69.6,Mkt&HR,71.49,Yes,Placed,"$250,000.00"
+122,123,F,Arts,66.8,Comm&Mgmt,69.3,Mkt&Fin,71.0,Yes,Placed,"$236,000.00"
+123,124,M,Commerce,59.0,Comm&Mgmt,73.0,Mkt&HR,56.7,Yes,Placed,"$240,000.00"
+124,125,M,Science,71.0,Others,64.33,Mkt&HR,61.26,Yes,Placed,"$250,000.00"
+125,126,F,Commerce,73.0,Comm&Mgmt,73.0,Mkt&Fin,73.33,No,Placed,"$350,000.00"
+126,127,F,Science,61.0,Sci&Tech,75.5,Mkt&Fin,68.2,Yes,Placed,"$210,000.00"
+127,128,F,Science,60.0,Comm&Mgmt,69.0,Mkt&HR,58.4,No,Placed,"$250,000.00"
+128,129,M,Science,73.4,Sci&Tech,77.72,Mkt&HR,76.26,Yes,Placed,"$400,000.00"
+129,130,M,Commerce,89.7,Comm&Mgmt,66.0,Mkt&Fin,68.55,Yes,Placed,"$250,000.00"
+130,131,M,Commerce,65.0,Comm&Mgmt,60.0,Mkt&Fin,64.15,No,Not Placed,$nan
+131,132,F,Science,57.0,Others,62.0,Mkt&Fin,60.78,Yes,Placed,"$360,000.00"
+132,133,M,Commerce,68.0,Comm&Mgmt,64.0,Mkt&HR,53.49,Yes,Placed,"$300,000.00"
+133,134,M,Commerce,64.0,Comm&Mgmt,77.0,Mkt&HR,60.98,Yes,Placed,"$250,000.00"
+134,135,F,Commerce,92.0,Comm&Mgmt,72.0,Mkt&Fin,67.13,Yes,Placed,"$250,000.00"
+135,136,F,Science,56.0,Comm&Mgmt,69.0,Mkt&HR,65.63,No,Placed,"$200,000.00"
+136,137,F,Arts,59.0,Comm&Mgmt,64.0,Mkt&Fin,61.58,No,Not Placed,$nan
+137,138,M,Commerce,63.0,Comm&Mgmt,72.0,Mkt&HR,60.41,No,Placed,"$225,000.00"
+138,139,F,Science,64.0,Sci&Tech,73.0,Mkt&Fin,71.77,Yes,Placed,"$250,000.00"
+139,140,M,Commerce,70.0,Comm&Mgmt,59.0,Mkt&Fin,54.43,Yes,Placed,"$220,000.00"
+140,141,M,Commerce,64.8,Comm&Mgmt,69.5,Mkt&Fin,56.94,Yes,Placed,"$265,000.00"
+141,142,M,Science,64.0,Comm&Mgmt,60.0,Mkt&HR,61.9,No,Not Placed,$nan
+142,143,M,Science,60.0,Sci&Tech,73.43,Mkt&Fin,61.29,Yes,Placed,"$260,000.00"
+143,144,M,Commerce,64.89,Comm&Mgmt,70.67,Mkt&Fin,60.39,No,Placed,"$300,000.00"
+144,145,M,Arts,50.0,Comm&Mgmt,61.0,Mkt&Fin,58.52,No,Not Placed,$nan
+145,146,M,Science,65.66,Sci&Tech,71.25,Mkt&HR,63.23,No,Placed,"$400,000.00"
+146,147,M,Science,63.0,Comm&Mgmt,66.0,Mkt&HR,55.14,No,Placed,"$233,000.00"
+147,148,M,Commerce,74.0,Comm&Mgmt,65.0,Mkt&Fin,62.28,No,Placed,"$300,000.00"
+148,149,F,Arts,86.0,Others,56.0,Mkt&Fin,64.08,No,Placed,"$240,000.00"
+149,150,M,Arts,58.0,Comm&Mgmt,55.0,Mkt&HR,58.54,Yes,Not Placed,$nan
+150,151,M,Science,58.66,Sci&Tech,58.0,Mkt&Fin,61.3,Yes,Placed,"$690,000.00"
+151,152,M,Commerce,65.0,Comm&Mgmt,75.0,Mkt&Fin,58.87,No,Placed,"$270,000.00"
+152,153,F,Science,60.5,Sci&Tech,84.0,Mkt&Fin,65.25,No,Placed,"$240,000.00"
+153,154,M,Science,59.0,Sci&Tech,65.0,Mkt&Fin,62.48,Yes,Placed,"$340,000.00"
+154,155,M,Science,63.0,Comm&Mgmt,60.0,Mkt&Fin,53.2,Yes,Placed,"$250,000.00"
+155,156,M,Commerce,74.66,Comm&Mgmt,59.9,Mkt&HR,65.99,Yes,Not Placed,$nan
+156,157,M,Science,69.4,Sci&Tech,65.0,Mkt&HR,52.72,Yes,Placed,"$255,000.00"
+157,158,M,Commerce,62.5,Comm&Mgmt,60.9,Mkt&Fin,55.03,No,Placed,"$300,000.00"
+158,159,M,Science,63.0,Sci&Tech,64.0,Mkt&Fin,61.87,No,Not Placed,$nan
+159,160,M,Commerce,49.0,Comm&Mgmt,58.0,Mkt&HR,60.59,No,Not Placed,$nan
+160,161,M,Science,74.0,Sci&Tech,65.0,Mkt&HR,72.29,Yes,Placed,"$300,000.00"
+161,162,M,Commerce,51.0,Comm&Mgmt,57.5,Mkt&HR,62.72,No,Not Placed,$nan
+162,163,M,Commerce,87.6,Comm&Mgmt,77.25,Mkt&Fin,66.06,Yes,Placed,"$285,000.00"
+163,164,M,Science,67.0,Sci&Tech,64.0,Mkt&Fin,66.46,No,Placed,"$500,000.00"
+164,165,F,Commerce,72.5,Comm&Mgmt,63.35,Mkt&Fin,65.52,No,Placed,"$250,000.00"
+165,166,F,Commerce,78.33,Comm&Mgmt,74.0,Mkt&Fin,74.56,No,Not Placed,$nan
+166,167,M,Commerce,62.0,Comm&Mgmt,60.0,Mkt&HR,52.38,Yes,Placed,"$240,000.00"
+167,168,M,Science,62.0,Sci&Tech,67.0,Mkt&Fin,75.71,Yes,Not Placed,$nan
+168,169,F,Commerce,51.0,Comm&Mgmt,58.0,Mkt&HR,58.79,Yes,Not Placed,$nan
+169,170,M,Science,42.16,Sci&Tech,61.26,Mkt&HR,65.48,No,Not Placed,$nan
+170,171,F,Commerce,67.2,Comm&Mgmt,60.0,Mkt&HR,69.28,No,Not Placed,$nan
+171,172,M,Commerce,80.0,Comm&Mgmt,72.0,Mkt&Fin,66.04,Yes,Placed,"$290,000.00"
+172,173,M,Commerce,58.0,Comm&Mgmt,56.0,Mkt&HR,52.64,No,Placed,"$300,000.00"
+173,174,F,Science,52.0,Sci&Tech,55.0,Mkt&HR,59.32,No,Not Placed,$nan
+174,175,M,Science,50.83,Sci&Tech,64.27,Mkt&Fin,66.23,Yes,Placed,"$500,000.00"
+175,176,M,Science,62.0,Sci&Tech,65.0,Mkt&HR,60.69,No,Not Placed,$nan
+176,177,F,Commerce,60.0,Comm&Mgmt,56.0,Mkt&HR,57.9,No,Placed,"$220,000.00"
+177,178,F,Commerce,97.0,Comm&Mgmt,79.0,Mkt&Fin,70.81,Yes,Placed,"$650,000.00"
+178,179,M,Science,56.0,Sci&Tech,68.0,Mkt&HR,68.07,No,Placed,"$350,000.00"
+179,180,F,Science,64.0,Sci&Tech,64.2,Mkt&HR,72.14,No,Not Placed,$nan
+180,181,M,Commerce,71.5,Comm&Mgmt,62.8,Mkt&Fin,56.6,Yes,Placed,"$265,000.00"
+181,182,M,Science,60.33,Sci&Tech,64.21,Mkt&HR,60.02,No,Not Placed,$nan
+182,183,M,Arts,65.0,Others,57.0,Mkt&Fin,59.81,Yes,Not Placed,$nan
+183,184,M,Commerce,77.0,Comm&Mgmt,69.0,Mkt&HR,61.82,No,Placed,"$276,000.00"
+184,185,F,Commerce,62.83,Comm&Mgmt,59.79,Mkt&HR,57.29,No,Not Placed,$nan
+185,186,F,Science,72.0,Others,78.0,Mkt&HR,71.43,No,Placed,"$252,000.00"
+186,187,F,Commerce,64.0,Comm&Mgmt,61.0,Mkt&Fin,62.93,No,Not Placed,$nan
+187,188,M,Science,65.5,Sci&Tech,67.0,Mkt&Fin,64.86,Yes,Placed,"$280,000.00"
+188,189,M,Commerce,47.0,Comm&Mgmt,54.38,Mkt&Fin,56.13,No,Not Placed,$nan
+189,190,F,Commerce,77.6,Comm&Mgmt,69.2,Mkt&Fin,66.94,No,Not Placed,$nan
+190,191,F,Commerce,70.2,Comm&Mgmt,61.0,Mkt&Fin,62.5,No,Not Placed,$nan
+191,192,M,Science,61.0,Comm&Mgmt,72.0,Mkt&Fin,61.01,No,Placed,"$264,000.00"
+192,193,M,Commerce,61.4,Comm&Mgmt,64.8,Mkt&Fin,57.34,Yes,Placed,"$270,000.00"
+193,194,F,Arts,63.0,Others,56.0,Mkt&HR,56.63,Yes,Placed,"$300,000.00"
+194,195,M,Commerce,55.0,Comm&Mgmt,56.3,Mkt&Fin,64.74,No,Not Placed,$nan
+195,196,M,Commerce,76.0,Comm&Mgmt,72.0,Mkt&HR,58.95,Yes,Placed,"$275,000.00"
+196,197,M,Science,63.0,Sci&Tech,77.5,Mkt&Fin,54.48,Yes,Placed,"$250,000.00"
+197,198,F,Science,53.0,Sci&Tech,91.0,Mkt&HR,69.71,No,Placed,"$260,000.00"
+198,199,F,Commerce,70.0,Others,65.0,Mkt&HR,71.96,No,Not Placed,$nan
+199,200,M,Commerce,65.0,Comm&Mgmt,57.0,Mkt&HR,55.8,No,Placed,"$265,000.00"
+200,201,M,Commerce,60.0,Comm&Mgmt,65.0,Mkt&Fin,52.81,No,Placed,"$300,000.00"
+201,202,M,Science,63.0,Comm&Mgmt,58.0,Mkt&HR,58.44,No,Not Placed,$nan
+202,203,M,Science,63.0,Sci&Tech,66.0,Mkt&HR,60.11,No,Placed,"$240,000.00"
+203,204,M,Commerce,61.33,Comm&Mgmt,56.87,Mkt&HR,58.3,No,Placed,"$260,000.00"
+204,205,F,Commerce,73.0,Comm&Mgmt,73.0,Mkt&Fin,67.69,Yes,Placed,"$210,000.00"
+205,206,M,Commerce,62.0,Comm&Mgmt,65.0,Mkt&Fin,56.81,No,Placed,"$250,000.00"
+206,207,M,Science,42.0,Comm&Mgmt,60.0,Mkt&Fin,53.39,No,Not Placed,$nan
+207,208,M,Commerce,78.0,Comm&Mgmt,61.0,Mkt&Fin,71.55,Yes,Placed,"$300,000.00"
+208,209,F,Science,60.0,Comm&Mgmt,65.0,Mkt&HR,62.92,No,Not Placed,$nan
+209,210,M,Commerce,72.0,Comm&Mgmt,65.0,Mkt&Fin,56.49,No,Placed,"$216,000.00"
+210,211,M,Commerce,82.0,Comm&Mgmt,77.6,Mkt&Fin,74.49,No,Placed,"$400,000.00"
+211,212,M,Science,60.0,Sci&Tech,72.0,Mkt&Fin,53.62,No,Placed,"$275,000.00"
+212,213,M,Commerce,67.0,Comm&Mgmt,73.0,Mkt&Fin,69.72,Yes,Placed,"$295,000.00"
+213,214,F,Commerce,66.0,Comm&Mgmt,58.0,Mkt&HR,60.23,No,Placed,"$204,000.00"
+214,215,M,Science,58.0,Comm&Mgmt,53.0,Mkt&HR,60.22,No,Not Placed,$nan
